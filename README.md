@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danb1551
-- 👀 I’m interested in termux and kali linux
-- 🌱 I’m currently learning ethical hacking
+- Here I will give the best of the internet for termux and kali linux
 
 <!---
 danb1551/danb1551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
