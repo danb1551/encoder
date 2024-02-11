@@ -1,13 +1,17 @@
-odeimport os
+import os
+
+def clear_console():
+    os.system('clear')
 
 def main():
-    print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
-    print("@                              @")
-    print("@Welcome in encoder            @")
-    print("@Created by: Danb1551          @")
-    print("@Instagram: @danik_12sniper    @")
-    print("@Web: termux.wz.cz             @")
-    print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+    clear_console()
+    print("################################")
+    print("#                              #")
+    print("#Welcome in encoder            #")
+    print("#Created by: Danb1551          #")
+    print("#Instagram: @danik_12sniper    #")
+    print("#Web: termux.wz.cz             #")
+    print("################################")
     print("Select:")
     print("{1.} Encode")
     print("{2.} Dekódování")
