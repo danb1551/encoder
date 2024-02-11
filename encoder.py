@@ -15,7 +15,7 @@ def encode_text_to_emojipuke(text):
     return emojipuke_code
 
 if __name__ == "__main__":
-    text_to_encode = input("Zadejte text k zakódování: ")
+    text_to_encode = input("Write text to encode: ")
     emojipuke_encoded_text = encode_text_to_emojipuke(text_to_encode)
-    print("Zakódovaný text v EmojiPuke:")
+    print("Encoded text:")
     print(emojipuke_encoded_text)
