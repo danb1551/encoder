@@ -1,3 +1,8 @@
+import os
+
+def clear_console():
+    os.system('clear')
+    
 def decode_emojipuke(emojipuke_code):
     emojipuke_parts = emojipuke_code.split()
     text = ''
