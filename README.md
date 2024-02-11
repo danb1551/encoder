@@ -2,7 +2,7 @@
 - 👋 Hi, this is encoder and decoder for termux
 - ## Instalation
 ```sh
-git clone "https://github.com/danb1551/encoder
+git clone https://github.com/danb1551/encoder
 cd encoder
 python main.py
 ```
