@@ -15,7 +15,7 @@ def main():
     print("##########################################")
     print("Select:")
     print("{1.} Encode")
-    print("{2.} Dekódování")
+    print("{2.} Decode")
     choice = input("Write down the selected number: ")
 
     if choice == '1':
