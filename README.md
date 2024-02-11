@@ -11,8 +11,8 @@ python main.py
 cd encoder
 python main.py
 ```
-- For encoding type 1
-- For decoding type 2
+- For encoding 1
+- For decoding 2
 
 
 <!---
